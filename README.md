@@ -8,7 +8,7 @@
 
 💡 &nbsp;Researcher advancing data-driven solutions in the electric power industry.\
 🎓 &nbsp;M.S. in Atmosphere/Energy at Stanford University and B.S. in Chemical Engineering at UC San Diego.\
-✉️ &nbsp;You can shoot me an email at cjshono@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at cjshono@gmail.com! I'll try to respond as soon as I can.
 
 ### 🛠 &nbsp;Skills
 
